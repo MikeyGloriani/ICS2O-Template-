@@ -1,4 +1,4 @@
-# ICS2O-Unit-1-06-HTML-Favicon-B
+# ICS2O-Template
 
 [![Mr Coxall's Super Linter](https://github.com/MikeyGloriani/ICS2O-Unit-1-06-HTML-Favicon-B/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MikeyGloriani/ICS2O-Unit-1-06-HTML-Favicon-B/actions/)
 
